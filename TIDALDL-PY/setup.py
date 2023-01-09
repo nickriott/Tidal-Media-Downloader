@@ -7,7 +7,7 @@ setup(
     license="Apache2",
     description="Tidal Music Downloader.",
 
-    author='YaronH',
+    author='Riot',
     author_email="yaronhuang@foxmail.com",
 
     packages=find_packages(exclude=['tidal_gui*']),
